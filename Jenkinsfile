@@ -1,1 +1,3 @@
-echo 'aaa'
+stage('git_sync') {
+    echo 'aaa'
+}
